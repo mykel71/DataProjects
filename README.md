@@ -24,7 +24,7 @@ View my [project](https://github.com/mykel71/DataProjects/blob/master/Exploring%
 
 ### 4. Streamlining Employee Data
 
-View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Streamlining%20Employee%20Data/Streamlining%20Employee%20Data.ipynb) here!
+View my [project](https://github.com/mykel71/DataProjects/blob/master/Streamlining%20Employee%20Data/Streamlining%20Employee%20Data.ipynb) here!
 
 ***
 
