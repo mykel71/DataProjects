@@ -39,7 +39,7 @@ View my [project](https://github.com/mykel71/DataProjects/blob/master/Streamlini
 - Limit results using `LIMIT` clause
 - Subquery in `WHERE` clause
 
-View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Analyze%20International%20Debt%20Statistics/Solution.ipynb) here!
+View my [project](https://github.com/mykel71/DataProjects/commit/19733792c0da211e241fc5e1a9acfa8a86b0777f) here!
 
 ### 2. What and Where Are the World's Oldest Businesses?
 
