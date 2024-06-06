@@ -8,7 +8,7 @@
 - Created dataframes and used filtering techniques.
 - Built a line plot and scatter plot.
 
-View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office.ipynb) here!
+View my [project](https://github.com/mykel71/DataProjects/blob/master/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office.ipynb) here!
 
 ### 2. Generating Keywords for Google Ads
 
