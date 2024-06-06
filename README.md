@@ -16,7 +16,7 @@ View my [project](https://github.com/mykel71/DataProjects/blob/master/Investigat
 - Created prototype set of keywords for search campaign for an online furniture retailer.
 - Created dataframes.
 
-View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Generating%20Keywords%20for%20Google%20Ads/Generating%20Keywords%20for%20Google%20Ads.ipynb) here!
+View my [project](https://github.com/mykel71/DataProjects/blob/master/Generating%20Keywords%20for%20Google%20Ads/Generating%20Keywords%20for%20Google%20Ads.ipynb) here!
 
 ### 3. Exploring the NYC Airbnb Market
 
