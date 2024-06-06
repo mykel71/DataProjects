@@ -20,7 +20,7 @@ View my [project](https://github.com/mykel71/DataProjects/blob/master/Generating
 
 ### 3. Exploring the NYC Airbnb Market
 
-View my [project](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Exploring%20the%20NYC%20Airbnb%20Market/Exploring%20the%20NYC%20Airbnb%20Market.ipynb) here!
+View my [project](https://github.com/mykel71/DataProjects/blob/master/Exploring%20the%20NYC%20Airbnb%20Market/Exploring%20the%20NYC%20Airbnb%20Market.ipynb) here!
 
 ### 4. Streamlining Employee Data
 
