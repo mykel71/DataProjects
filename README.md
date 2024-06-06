@@ -49,7 +49,7 @@ View my [project](https://github.com/mykel71/DataProjects/commit/19733792c0da211
 - Sorting using `ORDER BY`
 - Inner `JOIN` and `LEFT JOIN` 
 
-View my project [here](https://github.com/katiehuangx/DataCamp-Projects/blob/main/What%20and%20Where%20Are%20the%20World's%20Oldest%20Businesses%3F/What%20and%20Where%20Are%20the%20World's%20Oldest%20Businesses.ipynb)!
+View my project [here](https://github.com/mykel71/DataProjects/blob/master/What%20and%20Where%20Are%20the%20World's%20Oldest%20Businesses_/What%20and%20Where%20Are%20the%20World's%20Oldest%20Businesses.ipynb)!
 
 
 
